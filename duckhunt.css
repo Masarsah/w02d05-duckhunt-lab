@@ -25,3 +25,10 @@ body, html {
 .duck.flap {
   background-position: -430px -160px;
 }
+
+
+.shot {
+  background-image: url('images/shot.png');
+  width: 100px;
+  height: 95px; 
+}
